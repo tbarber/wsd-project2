@@ -150,3 +150,7 @@ padding: 1px;
 p {
 font-size:0.625;
 }
+
+#hotcity img{
+max-width:100%;
+}
