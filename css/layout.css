@@ -108,12 +108,11 @@ color:#666;
 	text-align:center;
 }
 
-#secoundarycontent,p{
+#secoundarycontent{
 	background-color: #f9f9f1;
 	width:900px;
 	text-align:center;
-	color:4f479b;
-	font-size:0.625;
+	
 }
 
 footer p,span{
