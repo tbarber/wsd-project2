@@ -108,11 +108,10 @@ color:#666;
 	text-align:center;
 }
 
-#secondarycontent p{
+#secondarycontent{
 	background-color: #f9f9f1;
 	width:900px;
 	text-align:center;
-	color:4f479b;
 }
 
 footer p,span{
@@ -149,5 +148,5 @@ padding: 1px;
 	}
 
 p {
-
+font-size:0.625;
 }
