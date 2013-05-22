@@ -54,6 +54,7 @@ h1{
 	text-align:center;
 	color:#FFFFFF;
 	text-shadow:2px 2px 4px #9d9683;
+	font-size:1.5em; 
 	}
 	
 #keys li{
@@ -62,7 +63,8 @@ h1{
 	}
 	
 h2,h3{
-font-family: 'Emblema One', cursive;	
+font-family: 'Emblema One', cursive;
+font-size:1.5em;	
 }
 
 #article{
