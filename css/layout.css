@@ -20,7 +20,7 @@ background-image: url("../images/bg.jpg");
 	background-color: #999;
 	display: block;
 	height: 36px;
-	width: 200px;
+	width: 20.8333333% /*200/960*/
 	text-align: center;
 	line-height: 36px;
 	border-left-width: thin;
@@ -148,5 +148,5 @@ padding: 1px;
 	}
 
 p {
-font-size:0.625;
+font-size:1em;
 }
