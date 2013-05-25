@@ -167,3 +167,11 @@ width:34.375%; /*330/960*/
 #button3 img{
 max-width:100%;
 }
+
+#banner{
+width:100%; /*330/960*/
+}
+
+#banner img{
+max-width:100%; /*330/960*/
+}
