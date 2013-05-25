@@ -14,13 +14,14 @@ background-image: url("../images/bg.jpg");
 	float: left;
 	list-style-type:circle;
 }
+
 .div1 nav ul li a {
 	color: #FFF;
 	text-decoration: none;
 	background-color: #999;
 	display: block;
 	height: 36px;
-	width:20.8333333%; /*200/960*/
+	width:200px;
 	text-align: center;
 	line-height: 36px;
 	border-left-width: thin;
@@ -69,7 +70,7 @@ font-size:1.5em;
 
 #article{
 background-color: #f9f9f1;
-width:93.75%;
+width:93.75%; /*900/960/*/
 text-align:center;
 	
 }
@@ -96,7 +97,7 @@ article a:active{
 	-moz-column-count:4;
 	opacity: 0.3;
 	background-color: #f9f9f1;
-    width:900px;
+    width:93.75%; /*900/960/*/
 }
 #columns p{
 color:#666;	
@@ -104,13 +105,13 @@ color:#666;
 
 #main{
 	background-color: #f9f9f1;
-	width:900px;
+	width:93.75%; /*900/960/*/
 	text-align:center;
 }
 
 #secondarycontent{
 	background-color: #f9f9f1;
-	width:900px;
+	width:93.75%; /*900/960/*/
 	text-align:center;
 }
 
@@ -125,7 +126,7 @@ footer p,span{
 #photos{
 border: 1px solid #000;
 list-style-type: none;
-width: 900px;
+width: 93.75%; /*900/960/*/
 margin: 19px auto;
 overflow:hidden;
 padding: 1px;
@@ -149,4 +150,20 @@ padding: 1px;
 
 p {
 font-size:1em;
+}
+
+#boom{
+width:34.375%; /*330/960*/
+}
+
+#boom img{
+max-width:100%;
+}
+
+#button3{
+width:34.375%; /*330/960*/
+}
+
+#button3 img{
+max-width:100%;
 }
