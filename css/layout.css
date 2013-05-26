@@ -175,3 +175,18 @@ width:100%; /*330/960*/
 #banner img{
 max-width:100%; /*330/960*/
 }
+
+@media screen and (min-width:768px) and (max-width:959px){
+	#container {
+	background-color:red;
+}
+}
+@media only screen and (min-width:480px) and (max-width:767px){
+		#container {
+	background-color:blue;
+}
+}
+@media only screen and (min-width:380px) and (max-width:667px){
+		#container {
+	background-color:yellow;
+}
