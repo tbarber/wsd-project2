@@ -177,16 +177,16 @@ max-width:100%; /*330/960*/
 }
 
 @media screen and (min-width:768px) and (max-width:959px){
-	#container {
+	#wrapper {
 	background-color:red;
 }
 }
 @media only screen and (min-width:480px) and (max-width:767px){
-		#container {
+		#wrapper {
 	background-color:blue;
 }
 }
 @media only screen and (min-width:380px) and (max-width:667px){
-		#container {
+		#wrapper {
 	background-color:yellow;
 }
