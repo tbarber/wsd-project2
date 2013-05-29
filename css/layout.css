@@ -68,30 +68,7 @@ font-family: 'Emblema One', cursive;
 font-size:1.5em;	
 }
 
-.odd_row{
-background-color: #200aed
-}
-.even_row{
-background-color: #6456eb
-}
-.third_row{
-background-color: #9b93ea
-}
 
-
-
-table{
-border-collapse;
-border:1px solid #000;
-}
-
-td{
-border:1px solid #000;
-padding:0.3em;
-
-}
-
-th{
 text-aligh:left;
 background-color:#97301b;
 padding:0.3em;
